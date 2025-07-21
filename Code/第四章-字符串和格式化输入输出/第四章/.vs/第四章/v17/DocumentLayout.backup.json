@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\C Prime Plus Code Local\\C-Prime-Plus-Code\\Code\\\u7B2C\u56DB\u7AE0-\u5B57\u7B26\u4E32\u548C\u683C\u5F0F\u5316\u8F93\u5165\u8F93\u51FA\\\u7B2C\u56DB\u7AE0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B86C18-9DC6-4B19-9030-E370972DAB97}|\u7B2C\u56DB\u7AE0\\\u7B2C\u56DB\u7AE0.vcxproj|D:\\Study\\C Prime Plus Code Local\\C-Prime-Plus-Code\\Code\\\u7B2C\u56DB\u7AE0-\u5B57\u7B26\u4E32\u548C\u683C\u5F0F\u5316\u8F93\u5165\u8F93\u51FA\\\u7B2C\u56DB\u7AE0\\\u7B2C\u56DB\u7AE0\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80B86C18-9DC6-4B19-9030-E370972DAB97}|\u7B2C\u56DB\u7AE0\\\u7B2C\u56DB\u7AE0.vcxproj|solutionrelative:\u7B2C\u56DB\u7AE0\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\Study\\C Prime Plus Code Local\\C-Prime-Plus-Code\\Code\\\u7B2C\u56DB\u7AE0-\u5B57\u7B26\u4E32\u548C\u683C\u5F0F\u5316\u8F93\u5165\u8F93\u51FA\\\u7B2C\u56DB\u7AE0\\\u7B2C\u56DB\u7AE0\\test.c",
+              "RelativeDocumentMoniker": "\u7B2C\u56DB\u7AE0\\test.c",
+              "ToolTip": "D:\\Study\\C Prime Plus Code Local\\C-Prime-Plus-Code\\Code\\\u7B2C\u56DB\u7AE0-\u5B57\u7B26\u4E32\u548C\u683C\u5F0F\u5316\u8F93\u5165\u8F93\u51FA\\\u7B2C\u56DB\u7AE0\\\u7B2C\u56DB\u7AE0\\test.c",
+              "RelativeToolTip": "\u7B2C\u56DB\u7AE0\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-16T00:37:24.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Study\\C Prime Plus Code\\Code\\\u7B2C\u4E09\u7AE0-\u6570\u636E\u548CC\\\u7B2C\u4E09\u7AE0\\",
+  "WorkspaceRootPath": "D:\\Study\\C Prime Plus Code Local\\C-Prime-Plus-Code\\Code\\\u7B2C\u4E09\u7AE0-\u6570\u636E\u548CC\\\u7B2C\u4E09\u7AE0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FD2F8AB-C8F9-4A60-89D0-8D381810D00E}|\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0.vcxproj|D:\\Study\\C Prime Plus Code\\Code\\\u7B2C\u4E09\u7AE0-\u6570\u636E\u548CC\\\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0\\test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7FD2F8AB-C8F9-4A60-89D0-8D381810D00E}|\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0.vcxproj|D:\\Study\\C Prime Plus Code Local\\C-Prime-Plus-Code\\Code\\\u7B2C\u4E09\u7AE0-\u6570\u636E\u548CC\\\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0\\Test02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FD2F8AB-C8F9-4A60-89D0-8D381810D00E}|\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0.vcxproj|solutionrelative:\u7B2C\u4E09\u7AE0\\Test02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD2F8AB-C8F9-4A60-89D0-8D381810D00E}|\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0.vcxproj|D:\\Study\\C Prime Plus Code Local\\C-Prime-Plus-Code\\Code\\\u7B2C\u4E09\u7AE0-\u6570\u636E\u548CC\\\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0\\test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FD2F8AB-C8F9-4A60-89D0-8D381810D00E}|\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0.vcxproj|solutionrelative:\u7B2C\u4E09\u7AE0\\test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "test1.c",
-              "DocumentMoniker": "D:\\Study\\C Prime Plus Code\\Code\\\u7B2C\u4E09\u7AE0-\u6570\u636E\u548CC\\\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0\\test1.c",
-              "RelativeDocumentMoniker": "\u7B2C\u4E09\u7AE0\\test1.c",
-              "ToolTip": "D:\\Study\\C Prime Plus Code\\Code\\\u7B2C\u4E09\u7AE0-\u6570\u636E\u548CC\\\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0\\test1.c",
-              "RelativeToolTip": "\u7B2C\u4E09\u7AE0\\test1.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Title": "Test02.c",
+              "DocumentMoniker": "D:\\Study\\C Prime Plus Code Local\\C-Prime-Plus-Code\\Code\\\u7B2C\u4E09\u7AE0-\u6570\u636E\u548CC\\\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0\\Test02.c",
+              "RelativeDocumentMoniker": "\u7B2C\u4E09\u7AE0\\Test02.c",
+              "ToolTip": "D:\\Study\\C Prime Plus Code Local\\C-Prime-Plus-Code\\Code\\\u7B2C\u4E09\u7AE0-\u6570\u636E\u548CC\\\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0\\Test02.c",
+              "RelativeToolTip": "\u7B2C\u4E09\u7AE0\\Test02.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-12T01:42:14.25Z",
+              "WhenOpened": "2025-07-15T02:52:30.395Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test1.c",
+              "DocumentMoniker": "D:\\Study\\C Prime Plus Code Local\\C-Prime-Plus-Code\\Code\\\u7B2C\u4E09\u7AE0-\u6570\u636E\u548CC\\\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0\\test1.c",
+              "RelativeDocumentMoniker": "\u7B2C\u4E09\u7AE0\\test1.c",
+              "ToolTip": "D:\\Study\\C Prime Plus Code Local\\C-Prime-Plus-Code\\Code\\\u7B2C\u4E09\u7AE0-\u6570\u636E\u548CC\\\u7B2C\u4E09\u7AE0\\\u7B2C\u4E09\u7AE0\\test1.c",
+              "RelativeToolTip": "\u7B2C\u4E09\u7AE0\\test1.c",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwC8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-12T01:42:14.25Z"
             }
           ]
         }
